@@ -29,7 +29,7 @@ Original code Run times
 ￼
 ![Image of 2017 Run time
 ]
-(https://octodex.github.com/images/yaktocat.png)
+(https://github.com/JLUT/stock-analysis/blob/main/VBA_Challenge_2017.png)
 
 
 2018 Run time
