@@ -32,6 +32,7 @@ Original code Run times
 
 2018 Run time
 
+<img width="769" alt="2018Runtime" src="https://user-images.githubusercontent.com/71113701/95643945-762dd300-0a78-11eb-90af-3216501e09aa.png">
 ￼
 
   
