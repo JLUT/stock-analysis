@@ -26,8 +26,7 @@ Original code Run times
 
 2017 Run time
 
-￼
-![] (VBA_Challenge_2017.png)
+
 
 
 2018 Run time
@@ -91,7 +90,7 @@ Refactored code Run times
 
 
 ￼
-
+<img width="613" alt="VBA_Challenge_2017 png " src="https://user-images.githubusercontent.com/71113701/95642714-dd935500-0a6f-11eb-8a08-1b959cc14846.png">
 
 
 2018 improved run times
