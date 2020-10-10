@@ -26,6 +26,8 @@ Original code Run times
 
 2017 Run time
 
+<img width="758" alt="2017Runtime" src="https://user-images.githubusercontent.com/71113701/95643880-c7899280-0a77-11eb-8a40-eb1aaae69c8e.png">
+
 
 
 
