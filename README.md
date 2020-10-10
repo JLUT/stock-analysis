@@ -27,9 +27,7 @@ Original code Run times
 2017 Run time
 
 ￼
-![Image of 2017 Run time
-]
-(https://github.com/JLUT/stock-analysis/blob/main/VBA_Challenge_2017.png)
+![] (VBA_Challenge_2017.png)
 
 
 2018 Run time
