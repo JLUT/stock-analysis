@@ -1,6 +1,5 @@
 # stock-analysis
-Overview of the Project
-
+**Overview of the Project**
 
 
 This project is about the performance of 12 industries in 2017 and 2018 depending on their stock prices.
